@@ -1,0 +1,84 @@
+ZJ-2-2-A_1.fq.gz: OK
+ZJ-2-3-C_1.fq.gz: OK
+ZJ-1-3-B_1.fq.gz: OK
+ZJ-2-1-C_2.fq.gz: OK
+ZJ-1-1-C_2.fq.gz: OK
+ZJ-1-3-C_2.fq.gz: OK
+ZJ-1-1-A_2.fq.gz: OK
+ZJ-1-1-B_2.fq.gz: OK
+ZJ-1-3-A_2.fq.gz: OK
+ZJ-2-3-B_2.fq.gz: OK
+ZJ-1-2-B_2.fq.gz: OK
+ZJ-2-2-B_2.fq.gz: OK
+ZJ-2-1-C_1.fq.gz: OK
+ZJ-2-3-B_1.fq.gz: OK
+ZJ-2-1-A_1.fq.gz: OK
+ZJ-1-1-A_1.fq.gz: OK
+ZJ-2-2-B_1.fq.gz: OK
+ZJ-1-2-A_2.fq.gz: OK
+ZJ-1-3-A_1.fq.gz: OK
+ZJ-2-1-B_2.fq.gz: OK
+ZJ-1-2-A_1.fq.gz: OK
+ZJ-2-2-C_2.fq.gz: OK
+ZJ-1-1-B_1.fq.gz: OK
+ZJ-1-3-C_1.fq.gz: OK
+ZJ-2-2-C_1.fq.gz: OK
+ZJ-2-3-A_1.fq.gz: OK
+ZJ-1-2-C_2.fq.gz: OK
+ZJ-2-3-A_2.fq.gz: OK
+ZJ-1-2-B_1.fq.gz: OK
+ZJ-1-3-B_2.fq.gz: OK
+ZJ-2-3-C_2.fq.gz: OK
+ZJ-2-1-A_2.fq.gz: OK
+ZJ-1-2-C_1.fq.gz: OK
+ZJ-01-B_1.fq.gz: OK
+ZJ-01-A_1.fq.gz: OK
+ZJ-01-C_1.fq.gz: OK
+ZJ-01-A_2.fq.gz: OK
+ZJ-01-B_2.fq.gz: OK
+ZJ-01-C_2.fq.gz: OK
+ZJ-1-1-C_1.fq.gz: OK
+ZJ-2-1-B_1.fq.gz: OK
+ZJ-2-2-A_2.fq.gz: OK
+md5sum: ZJ-01-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-01-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-01-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-01-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-01-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-01-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-1-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-2-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-1-3-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-1-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-2-C_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-A_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-A_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-B_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-B_2.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-C_1.fq.gz: no properly formatted MD5 checksum lines found
+md5sum: ZJ-2-3-C_2.fq.gz: no properly formatted MD5 checksum lines found
