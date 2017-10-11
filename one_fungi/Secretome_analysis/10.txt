@@ -1,0 +1,10 @@
+evm.model.NODE_90_length_39782_cov_223.251.2
+evm.model.NODE_91_length_39621_cov_3.15514.9
+evm.model.NODE_91_length_39621_cov_3.15514.15
+evm.model.NODE_922_length_2637_cov_2.02447.1
+evm.model.NODE_943_length_2560_cov_1.24054.1
+evm.model.NODE_999_length_2396_cov_1.56912.1
+evm.model.NODE_9_length_928564_cov_216.502.169
+evm.model.NODE_9_length_928564_cov_216.502.194
+evm.model.NODE_9_length_928564_cov_216.502.1
+
